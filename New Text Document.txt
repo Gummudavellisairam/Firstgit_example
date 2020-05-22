@@ -1,0 +1,1 @@
+This is the file to check how to upload files from git-bash to github
